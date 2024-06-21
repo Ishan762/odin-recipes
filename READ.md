@@ -1,0 +1,2 @@
+Coding the first website where i show my Html knowledge that i have learnt so far. The website will be a basic recipe website.
+"this will consist of a main index page which will have links to a few recipes. We will revist this project in the future to style it up with CSS."
